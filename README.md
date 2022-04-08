@@ -3,9 +3,9 @@
 - 🌱 We are currently in search of strategic partners and investors.
 - 💞️ My plans include cooperation with Binance, Kucoin, Huobi Global, ByBit, Launchpool, Vlaunch, NFTb and many other giants of the crypto industry.
 - 📫 How to reach me - Email: ibakhtubayev@vk.com, ibahtubaev@icloud.com, ibakhtubayev@gmail.com
-                        What's app - +77772755529
-                        Telegram - @phoenixeth
-                        Twitter - @phoenixking_eth
+- 📫 How to reach me - What's app: +77772755529
+- 📫 How to reach me - Telegram: @phoenixeth
+- 📫 How to reach me - Twitter: @phoenixking_eth, @MetagramRoom
 <!---
 MetaGram/MetaGram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
